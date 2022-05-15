@@ -1,4 +1,4 @@
-class sample1 {
+class sample2 {
     public static void main(String[] args) {
         /* if文による条件分岐 */
         // 温度
